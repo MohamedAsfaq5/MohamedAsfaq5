@@ -1,6 +1,5 @@
 <!-- HEADER WITH PHOTO -->
 <h1 align="center">
-  <br>
   <strong style="font-size:32px; color:#00A1E0;">Mohamed Asfaq</strong>
 </h1>
 
