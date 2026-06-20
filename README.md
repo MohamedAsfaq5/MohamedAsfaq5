@@ -1,6 +1,5 @@
 <!-- HEADER WITH PHOTO -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MohamedAsfaq5/MohamedAsfaq5/main/avatar.png" width="160" height="160" style="border-radius:50%; border: 4px solid #00A1E0;" alt="Mohamed Asfaq">
   <br>
   <strong style="font-size:32px; color:#00A1E0;">Mohamed Asfaq</strong>
 </h1>
