@@ -1,4 +1,4 @@
-<!-- HEADER -->
+<!-- HEADER WITH PHOTO -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MohamedAsfaq5/MohamedAsfaq5/main/avatar.png" width="160" height="160" style="border-radius:50%; border: 4px solid #00A1E0;" alt="Mohamed Asfaq">
   <br>
@@ -10,6 +10,7 @@
   <em style="font-size:18px; color:#666;">CRM Strategy · Financial Operations · Process Optimization · Revenue Growth</em>
 </p>
 
+<!-- CONTACT BADGES -->
 <p align="center">
   <a href="mailto:mohamedasfaq5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -37,7 +38,72 @@ My approach combines deep analytical rigor with a pragmatic understanding of wha
 - 🌍 Cross-functional leadership across diverse industries and geographies
 - 🚀 A track record of delivering results that move the needle
 
-I believe that the best business strategies are grounded in execution. My mission is to help organizations build the operational infrastructure they need to scale, compete, and win.
+---
+
+## 📌 Featured Projects & Case Studies
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/sales-analytics-dashboard">
+        <strong>📊 Sales Analytics Dashboard</strong>
+      </a><br>
+      <em>Interactive dashboard tracking pipeline health, conversion rates, and revenue performance.</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Salesforce</span>
+      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Excel</span>
+      <span style="background:#F2C811; color:black; padding:2px 10px; border-radius:12px; margin:2px;">Power BI</span>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/crm-process-optimization-case-study">
+        <strong>🚀 CRM Process Optimization</strong>
+      </a><br>
+      <em>Complete redesign delivering 25% lead conversion increase. Full case study with methodology.</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Salesforce</span>
+      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px;">HubSpot</span>
+      <span style="background:#2496ED; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Agile</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/invoice-collection-optimization">
+        <strong>💰 Invoice Collection Optimization</strong>
+      </a><br>
+      <em>Process redesign reducing average collection time by 10 days through automation.</em><br>
+      <span style="background:#F80000; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Oracle</span>
+      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Excel</span>
+      <span style="background:#054A59; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Six Sigma</span>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/customer-success-playbook">
+        <strong>🤝 Customer Success Playbook</strong>
+      </a><br>
+      <em>Comprehensive framework covering onboarding, upsell, and retention. Drove 15% revenue growth.</em><br>
+      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px;">HubSpot</span>
+      <span style="background:#0052CC; color:white; padding:2px 10px; border-radius:12px; margin:2px;">CSM</span>
+      <span style="background:#2496ED; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Agile</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/business-operations-templates">
+        <strong>📋 Business Operations Templates</strong>
+      </a><br>
+      <em>Reusable templates for forecasting, vendor scorecards, contract summaries, and dashboards.</em><br>
+      <span style="background:#0078D4; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Microsoft 365</span>
+      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Excel</span>
+      <span style="background:#B7472A; color:white; padding:2px 10px; border-radius:12px; margin:2px;">PowerPoint</span>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/proptech-roi-market-analysis">
+        <strong>🏗️ PropTech ROI & Market Analysis</strong>
+      </a><br>
+      <em>In-depth market analysis of PropTech investments in Saudi Arabia aligned with Vision 2030.</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Salesforce</span>
+      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Excel</span>
+      <span style="background:#0A66C2; color:white; padding:2px 10px; border-radius:12px; margin:2px;">PropTech</span>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -173,73 +239,6 @@ I believe that the best business strategies are grounded in execution. My missio
   <span style="background:#2196F3; color:white; padding:8px 20px; border-radius:25px; display:inline-block; margin:8px; font-weight:bold;">🇮🇳 Hindi · Professional</span>
   <span style="background:#9C27B0; color:white; padding:8px 20px; border-radius:25px; display:inline-block; margin:8px; font-weight:bold;">🇵🇰 Urdu · Professional</span>
 </p>
-
----
-
-## 📌 Featured Projects & Case Studies
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/sales-analytics-dashboard">
-        <strong>📊 Sales Analytics Dashboard</strong>
-      </a><br>
-      <em>Interactive dashboard tracking pipeline health, conversion rates, and revenue performance. Built with Salesforce, Excel, and Power BI.</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Salesforce</span>
-      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Excel</span>
-      <span style="background:#F2C811; color:black; padding:2px 10px; border-radius:12px; margin:2px;">Power BI</span>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/crm-process-optimization-case-study">
-        <strong>🚀 CRM Process Optimization</strong>
-      </a><br>
-      <em>Complete redesign of CRM tracking system delivering 25% lead conversion increase. Full case study with methodology and results.</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Salesforce</span>
-      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px;">HubSpot</span>
-      <span style="background:#2496ED; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Agile</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/invoice-collection-optimization">
-        <strong>💰 Invoice Collection Optimization</strong>
-      </a><br>
-      <em>Process redesign reducing average collection time by 10 days through automation and cross-functional collaboration.</em><br>
-      <span style="background:#F80000; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Oracle</span>
-      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Excel</span>
-      <span style="background:#054A59; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Six Sigma</span>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/customer-success-playbook">
-        <strong>🤝 Customer Success Playbook</strong>
-      </a><br>
-      <em>Comprehensive framework covering onboarding, engagement, upsell strategies, and retention tactics. Drove 15% revenue growth.</em><br>
-      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px;">HubSpot</span>
-      <span style="background:#0052CC; color:white; padding:2px 10px; border-radius:12px; margin:2px;">CSM</span>
-      <span style="background:#2496ED; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Agile</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/business-operations-templates">
-        <strong>📋 Business Operations Templates</strong>
-      </a><br>
-      <em>Reusable templates for sales forecasting, vendor scorecards, contract summaries, and operational dashboards.</em><br>
-      <span style="background:#0078D4; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Microsoft 365</span>
-      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Excel</span>
-      <span style="background:#B7472A; color:white; padding:2px 10px; border-radius:12px; margin:2px;">PowerPoint</span>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/proptech-roi-market-analysis">
-        <strong>🏗️ PropTech ROI & Market Analysis</strong>
-      </a><br>
-      <em>In-depth market analysis of PropTech investments in Saudi Arabia aligned with Vision 2030. Financial modeling and ROI projections.</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Salesforce</span>
-      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px;">Excel</span>
-      <span style="background:#0A66C2; color:white; padding:2px 10px; border-radius:12px; margin:2px;">PropTech</span>
-    </td>
-  </tr>
-</table>
 
 ---
 
