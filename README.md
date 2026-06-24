@@ -26,7 +26,7 @@
 
 ## 👔 About Me
 
-I am a **Business Operations and Sales Process Executive** who bridges the gap between strategic vision and operational execution. With over 6 years of cross-industry experience across **PropTech, healthcare, IT, and e-commerce**, I have built a reputation for transforming complex business challenges into scalable growth opportunities.
+I am a **Business Operations and Sales Process Executive** who bridges the gap between strategic vision and operational execution. With over 6+ years of cross-industry experience across **PropTech, healthcare, IT, and e-commerce**, I have built a reputation for transforming complex business challenges into scalable growth opportunities.
 
 My approach combines deep analytical rigor with a pragmatic understanding of what drives business value. I don't just implement processes—I architect systems that enable organizations to operate with precision, agility, and purpose. Whether it's redesigning CRM workflows to boost conversion by 25% or streamlining collections to reduce payment cycles by 10 days, my work consistently delivers measurable business impact.
 
