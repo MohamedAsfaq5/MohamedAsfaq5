@@ -388,7 +388,8 @@ My journey into personal financial advisory wasn't planned — it grew organical
 - **Screener.in** & **TickerTape** for fundamental analysis
 - **Value Research** for mutual fund comparison
 - **Zerodha / Groww** for equity and ETF execution
-- **Excel** — I maintain a highly detailed, custom portfolio tracker for every client
+- **Excel / Notion** — I maintain a highly detailed, custom portfolio tracker for every client
+- **Some secret tools** — custom automation workflows, proprietary dashboards, and niche data sources I’ve refined over time
 
 ### 👥 Current Clientele & Sample Holdings
 
