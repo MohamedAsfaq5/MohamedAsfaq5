@@ -385,9 +385,9 @@ My journey into personal financial advisory wasn't planned — it grew organical
 5. **Ongoing Review & Rebalancing:** Quarterly review calls to track progress and adjust strategies
 
 **Tools I Rely On:**
-- **Screener.in** & **TickerTape** for fundamental analysis
-- **Value Research** for mutual fund comparison
-- **Zerodha / Groww** for equity and ETF execution
+- **Screener.in** & **Moneycontrol** for fundamental analysis
+- **Value Research** for mutual fund comparison & Forex Market
+- **Zerodha / Groww** for equity and ETF execution (India market)
 - **Excel / Notion** — I maintain a highly detailed, custom portfolio tracker for every client
 - **Some secret tools** — custom automation workflows, proprietary dashboards, and niche data sources I’ve refined over time
 
