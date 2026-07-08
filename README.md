@@ -355,7 +355,7 @@ Beyond my corporate work, I actively guide individuals as a trusted financial ad
 
 My journey into personal financial advisory wasn't planned — it grew organically from a personal curiosity about money markets and a frustration with conventional, one-size-fits-all investment advice.
 
-**Initial Spark (2018-2019):** I began managing my own portfolio with a modest SIP (Systematic Investment Plan) and a handful of blue-chip stocks. What started as a personal experiment quickly turned into an obsession. I studied **market cycles, mutual fund performance, and the psychological biases that drive investor behavior.**
+**Initial Spark (2015-2019):** I began managing my own portfolio with a modest SIP (Systematic Investment Plan) and a handful of blue-chip stocks. What started as a personal experiment quickly turned into an obsession. I studied **market cycles, mutual fund performance, and the psychological biases that drive investor behavior.**
 
 **The First Requests (2020-2021):** Friends and colleagues started noticing my disciplined approach and asked for guidance. I began advising a small circle — helping them understand their risk tolerance, simplify their financial goals, and build portfolios aligned with their life stage and aspirations.
 
