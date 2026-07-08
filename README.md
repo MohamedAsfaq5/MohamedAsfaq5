@@ -27,12 +27,13 @@
 I architect systems that enable organizations to scale with precision — from CRM workflows that boost conversion by 25% to financial processes that cut collection cycles by 10 days. My work spans **PropTech, healthcare, e-commerce, and aviation**, where I've built a reputation for translating complex challenges into executable, high-impact strategies.
 
 **What I bring to the table:**
+
 - 🎯 **Cross-Channel Expertise:** B2B · B2C · D2C — I design operating models that work across every customer acquisition channel
 - 📊 **Data-Backed Execution:** Decisions grounded in analytics, not assumptions — from pipeline velocity to collections efficiency
 - 🌍 **Cross-Industry Agility:** Saudi Vision 2030 in PropTech · HIPAA-compliant healthcare · E-commerce at scale · Premium aviation service
-- 🚀 **Revenue & Efficiency:** 25% lead conversion lift · 10-day collection reduction · 15% quarterly revenue growth
+- 🚀 **Revenue & Efficiency Focus:** 25% lead conversion lift · 10-day collection reduction · 15% quarterly revenue growth
 
-Beyond my corporate work, I actively guide **15+ individuals** as a trusted financial advisor — helping them build portfolios, manage risk, and achieve financial freedom. *(More on this below.)*
+Beyond my corporate work, I actively guide individuals as a trusted financial advisor — helping them build portfolios, manage risk, and achieve financial freedom. *(More on this below.)*
 
 > *"I don't just manage operations — I engineer them to scale."*
 
@@ -91,7 +92,7 @@ Beyond my corporate work, I actively guide **15+ individuals** as a trusted fina
     </td>
     <td align="center" width="33%" style="border:1px solid #e1e4e8; padding:15px; border-radius:8px;">
       <strong style="font-size:20px;">💼 Advisory</strong><br>
-      <em style="color:#666;">15+ Portfolios · Freelance</em><br>
+      <em style="color:#666;">Freelance · Wealth Advisory</em><br>
       <span style="font-size:14px;">Portfolio strategy · Mutual funds · Risk-balanced planning</span><br>
       <span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; display:inline-block; margin-top:8px;">Wealth Advisory</span>
     </td>
@@ -144,85 +145,169 @@ Beyond my corporate work, I actively guide **15+ individuals** as a trusted fina
 
 ---
 
-<!-- CASE STUDIES SECTION - 6 NEW ONES -->
+<!-- CASE STUDIES SECTION -->
 ## 📌 Case Studies
 
-### 📘 From Funnel to Fortune
-**E-commerce D2C/B2C/B2B Sales Alignment & Marketing Operations**
-*Complete marketing-sales alignment framework delivering 67% revenue lift.*
-<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Salesforce</span>
-<span style="background:#FF7A59; color:white; padding:2px 12px; border-radius:12px; margin:2px;">HubSpot</span>
-<span style="background:#F2C811; color:black; padding:2px 12px; border-radius:12px; margin:2px;">Power BI</span>
-<span style="background:#2496ED; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Agile</span>
-
-### 📘 Scaling Sales in a Startup Environment
-**Startup GTM Strategy — Building Sales Motion from 0 to 1**
-*From chaos to clarity: structured sales process for early-stage ventures.*
-<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Salesforce</span>
-<span style="background:#217346; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Excel</span>
-<span style="background:#2496ED; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Agile</span>
-
-### 📘 B2B Revenue Engine: Pipeline to Close
-**B2B Lead Management, Qualification & Deal Acceleration**
-*47% lead-to-opportunity conversion rate through systematic qualification.*
-<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Salesforce</span>
-<span style="background:#FF7A59; color:white; padding:2px 12px; border-radius:12px; margin:2px;">HubSpot</span>
-<span style="background:#217346; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Excel</span>
-
-### 📘 Customer Retention Through Operational Excellence
-**D2C Retention Strategies & Post-Sale Engagement**
-*77% increase in 12-month customer retention through operational redesign.*
-<span style="background:#FF7A59; color:white; padding:2px 12px; border-radius:12px; margin:2px;">HubSpot</span>
-<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Salesforce</span>
-<span style="background:#F2C811; color:black; padding:2px 12px; border-radius:12px; margin:2px;">Power BI</span>
-
-### 📘 Marketing-Sales Alignment Framework
-**Cross-Functional Governance, SLA Design & Unified Dashboards**
-*125% improvement in alignment score through integrated governance.*
-<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Salesforce</span>
-<span style="background:#FF7A59; color:white; padding:2px 12px; border-radius:12px; margin:2px;">HubSpot</span>
-<span style="background:#2496ED; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Agile</span>
-
-### 📘 Multi-Channel Revenue Optimization
-**Integrating B2B, B2C & D2C into a Single Operating Model**
-*33% reduction in D2C acquisition cost through channel integration.*
-<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Salesforce</span>
-<span style="background:#F80000; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Oracle</span>
-<span style="background:#217346; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Excel</span>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/ai-bank-operations-transformation">
+        <strong>🏦 AI-Powered Operations Transformation</strong>
+      </a><br>
+      <em>32% cost reduction · 28% faster settlements · $1.3M annualized savings</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+      <span style="background:#0078D4; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Azure</span>
+      <span style="background:#F2C811; color:black; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Power BI</span>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/proptech-investment-intelligence">
+        <strong>🏗️ PropTech Portfolio Intelligence</strong>
+      </a><br>
+      <em>23% faster decisions · $45M additional portfolio value</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+      <span style="background:#E97627; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Tableau</span>
+      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Excel</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/healthcare-billing-automation">
+        <strong>🏥 Healthcare Billing Automation</strong>
+      </a><br>
+      <em>98% accuracy · 55% faster processing · $8.2M cash flow improvement</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+      <span style="background:#F80000; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Oracle</span>
+      <span style="background:#054A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Six Sigma</span>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/funnel-to-fortune-marketing-operations">
+        <strong>📈 From Funnel to Fortune</strong>
+      </a><br>
+      <em>47% conversion · 33% CAC reduction · 67% revenue lift</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
+      <span style="background:#F2C811; color:black; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Power BI</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/scaling-sales-startup-environment">
+        <strong>🚀 Scaling Sales in a Startup</strong>
+      </a><br>
+      <em>3x revenue growth · 40% cycle reduction · $5M+ pipeline</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Excel</span>
+      <span style="background:#2496ED; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Agile</span>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/b2b-revenue-engine-pipeline-to-close">
+        <strong>💼 B2B Revenue Engine</strong>
+      </a><br>
+      <em>47% conversion · 28% cycle reduction · 18% deal size increase</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
+      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Excel</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/customer-retention-operational-excellence">
+        <strong>🔄 Customer Retention Excellence</strong>
+      </a><br>
+      <em>77% retention improvement · 42% LTV increase · 40% churn reduction</em><br>
+      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+      <span style="background:#F2C811; color:black; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Power BI</span>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/marketing-sales-alignment-framework">
+        <strong>🤝 Marketing-Sales Alignment</strong>
+      </a><br>
+      <em>125% alignment improvement · 67% revenue lift</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
+      <span style="background:#2496ED; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Agile</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/multi-channel-revenue-optimization">
+        <strong>📊 Multi-Channel Revenue Optimization</strong>
+      </a><br>
+      <em>33% CAC reduction · 18% deal size increase · 22% revenue velocity improvement</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+      <span style="background:#F80000; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Oracle</span>
+      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Excel</span>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/">
+        <strong>📌 More Coming Soon</strong>
+      </a><br>
+      <em>Additional case studies being added regularly.</em><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- PROJECTS SECTION - 6 EXISTING ONES -->
+<!-- PROJECTS SECTION -->
 ## 📌 Projects
 
-### 📊 Sales Analytics Dashboard
-*Interactive dashboard tracking pipeline health and conversion rates.*
-<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Salesforce</span>
-<span style="background:#217346; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Power BI</span>
-
-### 🚀 CRM Process Optimization
-*Complete redesign delivering 25% lead conversion increase.*
-<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Salesforce</span>
-<span style="background:#FF7A59; color:white; padding:2px 12px; border-radius:12px; margin:2px;">HubSpot</span>
-
-### 💰 Invoice Collection Optimization
-*Process redesign reducing collection time by 10 days.*
-<span style="background:#F80000; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Oracle</span>
-<span style="background:#054A59; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Six Sigma</span>
-
-### 🤝 Customer Success Playbook
-*Comprehensive framework driving 15% revenue growth.*
-<span style="background:#FF7A59; color:white; padding:2px 12px; border-radius:12px; margin:2px;">HubSpot</span>
-<span style="background:#0052CC; color:white; padding:2px 12px; border-radius:12px; margin:2px;">CSM</span>
-
-### 📋 Business Operations Templates
-*Reusable templates for forecasting and reporting.*
-<span style="background:#0078D4; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Microsoft 365</span>
-
-### 🏗️ PropTech ROI & Market Analysis
-*PropTech investment analysis aligned with Vision 2030.*
-<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px;">Salesforce</span>
-<span style="background:#0A66C2; color:white; padding:2px 12px; border-radius:12px; margin:2px;">PropTech</span>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/sales-analytics-dashboard">
+        <strong>📊 Sales Analytics Dashboard</strong>
+      </a><br>
+      <em>Interactive dashboard tracking pipeline health and conversion rates.</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Power BI</span>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/crm-process-optimization-case-study">
+        <strong>🚀 CRM Process Optimization</strong>
+      </a><br>
+      <em>Complete redesign delivering 25% lead conversion increase.</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/invoice-collection-optimization">
+        <strong>💰 Invoice Collection Optimization</strong>
+      </a><br>
+      <em>Process redesign reducing collection time by 10 days.</em><br>
+      <span style="background:#F80000; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Oracle</span>
+      <span style="background:#054A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Six Sigma</span>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/customer-success-playbook">
+        <strong>🤝 Customer Success Playbook</strong>
+      </a><br>
+      <em>Comprehensive framework driving 15% revenue growth.</em><br>
+      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
+      <span style="background:#0052CC; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">CSM</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/business-operations-templates">
+        <strong>📋 Business Operations Templates</strong>
+      </a><br>
+      <em>Reusable templates for forecasting and reporting.</em><br>
+      <span style="background:#0078D4; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Microsoft 365</span>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/MohamedAsfaq5/proptech-roi-market-analysis">
+        <strong>🏗️ PropTech ROI & Market Analysis</strong>
+      </a><br>
+      <em>PropTech investment analysis aligned with Vision 2030.</em><br>
+      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+      <span style="background:#0A66C2; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">PropTech</span>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -242,45 +327,39 @@ Beyond my corporate work, I actively guide **15+ individuals** as a trusted fina
 
 ---
 
-<!-- TOOLS -->
+<!-- TOOLS - UPDATED FROM CV -->
 ## 🛠️ Tools & Platforms
 
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
+  <img src="https://img.shields.io/badge/PropForce-0A66C2?style=for-the-badge&logo=realestate&logoColor=white" alt="PropForce">
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white" alt="Agile">
 </p>
 
 ---
 
-<!-- FREELANCE / ADVISORY SECTION - HIGHLIGHTED -->
-## 💼 The Advisory Side: Guiding 15+ Portfolios with Precision & Trust
+<!-- FREELANCE / ADVISORY SECTION - HIGHLIGHTED WITH CONTINUOUS FLOW -->
+## 💼 The Advisory Side: Guiding 15+ Portfolios with Precision & Trust (Freelancing)
 
 > *"I treat every rupee as if it were my own — because trust is earned through track record, not promises."*
-
----
 
 ### 🌱 How This Journey Started
 
 My journey into personal financial advisory wasn't planned — it grew organically from a personal curiosity about money markets and a frustration with conventional, one-size-fits-all investment advice.
 
-**Initial Spark (2018-2019):**
-I began managing my own portfolio with a modest SIP (Systematic Investment Plan) and a handful of blue-chip stocks. What started as a personal experiment quickly turned into an obsession. I studied **market cycles, mutual fund performance, and the psychological biases that drive investor behavior.**
+**Initial Spark (2018-2019):** I began managing my own portfolio with a modest SIP (Systematic Investment Plan) and a handful of blue-chip stocks. What started as a personal experiment quickly turned into an obsession. I studied **market cycles, mutual fund performance, and the psychological biases that drive investor behavior.**
 
-**The First Requests (2020-2021):**
-Friends and colleagues started noticing my disciplined approach and asked for guidance. I began advising a small circle — helping them understand their risk tolerance, simplify their financial goals, and build portfolios aligned with their life stage and aspirations.
+**The First Requests (2020-2021):** Friends and colleagues started noticing my disciplined approach and asked for guidance. I began advising a small circle — helping them understand their risk tolerance, simplify their financial goals, and build portfolios aligned with their life stage and aspirations.
 
-**The Pivot (2022-Present):**
-The circle grew to **15+ active individuals** — professionals, business owners, and families — who now trust me to manage their financial planning, portfolio construction, and goal-based investing. This isn't a side hustle; it's a **responsibility I carry with the seriousness of a veteran advisor.**
-
----
+**The Pivot (2022-Present):** The circle grew to **15+ active individuals** — professionals, business owners, and families — who now trust me to manage their financial planning, portfolio construction, and goal-based investing. This isn't a side hustle; it's a **responsibility I carry with the seriousness of a veteran advisor.**
 
 ### 📚 What I've Mastered
 
@@ -294,8 +373,6 @@ The circle grew to **15+ active individuals** — professionals, business owners
 | **💸 Savings & Spend Control** | The 50-30-20 rule, zero-based budgeting, and behavioral spend tracking | I help clients **control the leakages** in their monthly cash flow |
 | **🏁 Early Retirement & FIRE** | The 4% rule, withdrawal strategies, and sustainable withdrawal rates | I advise on **FIRE strategies** for clients wanting financial freedom before 50 |
 | **🧠 Market Psychology** | Greed, fear, recency bias, and overconfidence | I act as a **behavioral coach** — keeping clients calm during bear markets |
-
----
 
 ### 🔧 My Methodology & Tools
 
@@ -313,19 +390,15 @@ The circle grew to **15+ active individuals** — professionals, business owners
 - **Zerodha / Groww** for equity and ETF execution
 - **Excel** — I maintain a highly detailed, custom portfolio tracker for every client
 
----
-
 ### 👥 Current Clientele & Sample Holdings
 
-**I currently advise 15+ individuals** — portfolios ranging from ₹5 Lakhs to ₹1.5 Crores.
+**I currently advise 15+ individuals** with diversified portfolios aligned to their financial goals and risk profiles.
 
 | Client Profile | Segment Size | Portfolio Focus | Average Holding Period |
 |----------------|--------------|-----------------|------------------------|
-| **Young Professionals (25-35 yrs)** | 8 clients | High-growth equity + ELSS + Small-cap | 7-10 years |
-| **Business Owners (35-50 yrs)** | 4 clients | Balanced (Equity 60% + Debt 30% + Gold 10%) | 10-15 years |
-| **Pre-Retirees (50-60 yrs)** | 3 clients | Conservative (Debt 50% + Equity 30% + Liquid 20%) | 5-7 years |
-
----
+| **Young Professionals (25-35 yrs)** | Active clients | High-growth equity + ELSS + Small-cap | 7-10 years |
+| **Business Owners (35-50 yrs)** | Active clients | Balanced (Equity 60% + Debt 30% + Gold 10%) | 10-15 years |
+| **Pre-Retirees (50-60 yrs)** | Active clients | Conservative (Debt 50% + Equity 30% + Liquid 20%) | 5-7 years |
 
 **Sample Holdings (Illustrative - Anonymized):**
 
@@ -339,8 +412,6 @@ The circle grew to **15+ active individuals** — professionals, business owners
 | **Gold** | Sovereign Gold Bonds, Gold ETFs | 5% | Inflation hedge and portfolio diversifier |
 | **Liquid / Emergency** | Savings Account, Liquid Funds | 10% | 6-month emergency corpus |
 
----
-
 ### 🤝 Why Clients Trust Me
 
 > *"Trust is not given — it is earned through consistency, transparency, and delivering what you promised."*
@@ -351,8 +422,6 @@ The circle grew to **15+ active individuals** — professionals, business owners
 - 🔍 **Transparency:** I don't sell products for commission — every recommendation is client-first
 - 📉 **Market Ups & Downs:** I don't panic during corrections and I don't get greedy during bull runs
 - 📈 **Results-Focused:** Portfolios I've managed have consistently outperformed benchmarks over 3-5 year horizons
-
----
 
 ### 🚀 How I Support Your Financial Journey
 
