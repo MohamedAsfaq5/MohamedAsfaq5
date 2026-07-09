@@ -327,7 +327,7 @@ Beyond my corporate work, I actively guide individuals as a trusted financial ad
 
 ---
 
-<!-- TOOLS - UPDATED FROM CV -->
+<!-- TOOLS - UPDATED FROM CV WITH YOUR EXACT WORDING -->
 ## 🛠️ Tools & Platforms
 
 <p align="center">
@@ -346,7 +346,7 @@ Beyond my corporate work, I actively guide individuals as a trusted financial ad
 
 ---
 
-<!-- FREELANCE / ADVISORY SECTION - HIGHLIGHTED WITH CONTINUOUS FLOW -->
+<!-- FREELANCE / ADVISORY SECTION - FINAL APPROVED VERSION -->
 ## 💼 The Advisory Side: Guiding 15+ Portfolios with Precision & Trust (Freelancing)
 
 > *"I treat every rupee as if it were my own — because trust is earned through track record, not promises."*
@@ -368,7 +368,7 @@ My journey into personal financial advisory wasn't planned — it grew organical
 | **📊 Stock Market & Equity** | Identifying undervalued companies, sector rotation, and timing vs. time in the market | I focus on **long-term compounding** rather than short-term trading |
 | **🏦 Bonds & Fixed Income** | The role of sovereign bonds, corporate bonds, and debt funds in portfolio stability | I use bonds as a **stabilizer** for clients approaching retirement |
 | **💰 Mutual Funds & SIPs** | Fund selection, expense ratios, and the power of rupee-cost averaging | I design diversified fund portfolios tailored to client risk profiles |
-| **📈 Currencies & Global Macro** | Exchange rate dynamics, interest rate movements, and international diversification | I advise on currency hedges and explore international ETFs |
+| **📈 Currencies & Global Macro** | Exchange rate dynamics, interest rate movements, and international diversification | I advise on currency hedges and explore international ETFs for global exposure |
 | **🛡️ Insurance & Protection** | Term insurance, health coverage, and critical illness plans | I ensure every client has adequate coverage BEFORE investing |
 | **💸 Savings & Spend Control** | The 50-30-20 rule, zero-based budgeting, and behavioral spend tracking | I help clients **control the leakages** in their monthly cash flow |
 | **🏁 Early Retirement & FIRE** | The 4% rule, withdrawal strategies, and sustainable withdrawal rates | I advise on **FIRE strategies** for clients wanting financial freedom before 50 |
@@ -380,7 +380,7 @@ My journey into personal financial advisory wasn't planned — it grew organical
 
 1. **Discovery Call:** Understand the client's life stage, income, expenses, liabilities, risk tolerance, and financial goals
 2. **Current Financial Audit:** Review existing insurance, investments, debt, and savings — identifying gaps
-3. **Strategy Design:** Build a custom framework — split between Equity, Debt, Gold, and Liquid assets
+3. **Strategy Design:** Build a custom framework — split between Equity, Debt, Gold, Liquid assets, and International Exposure
 4. **Implementation:** Execute through direct equity, mutual funds, PPF, and insurance products
 5. **Ongoing Review & Rebalancing:** Quarterly review calls to track progress and adjust strategies
 
@@ -389,29 +389,30 @@ My journey into personal financial advisory wasn't planned — it grew organical
 - **Value Research** for mutual fund comparison & Forex Market
 - **Zerodha / Groww** for equity and ETF execution (India market)
 - **Excel / Notion** — I maintain a highly detailed, custom portfolio tracker for every client
-- **Some secret tools** — custom automation workflows, proprietary dashboards, and niche data sources I’ve refined over time
+- **Some secret tools** — custom automation workflows, proprietary dashboards, and niche data sources I've refined over time
 
-### 👥 Current Clientele & Sample Holdings
+### 👥 Current Clientele
 
 **I currently advise 15+ individuals** with diversified portfolios aligned to their financial goals and risk profiles.
 
-| Client Profile | Segment Size | Portfolio Focus | Average Holding Period |
-|----------------|--------------|-----------------|------------------------|
-| **Young Professionals (25-35 yrs)** | Active clients | High-growth equity + ELSS + Small-cap | 7-10 years |
-| **Business Owners (35-50 yrs)** | Active clients | Balanced (Equity 60% + Debt 30% + Gold 10%) | 10-15 years |
-| **Pre-Retirees (50-60 yrs)** | Active clients | Conservative (Debt 50% + Equity 30% + Liquid 20%) | 5-7 years |
+| Client Profile | Portfolio Focus | Average Holding Period |
+|----------------|-----------------|------------------------|
+| **Young Professionals (25-35 yrs)** | High-growth equity + ELSS + Small-cap | 7-10 years |
+| **Business Owners (35-50 yrs)** | Balanced (Equity 60% + Debt 30% + Gold 10%) | 10-15 years |
+| **Pre-Retirees (50-60 yrs)** | Conservative (Debt 50% + Equity 30% + Liquid 20%) | 5-7 years |
 
-**Sample Holdings (Illustrative - Anonymized):**
+### 📊 Sample Portfolio Allocation (Illustrative)
 
-| Asset Class | Holding | Allocation % | Rationale |
-|-------------|---------|--------------|-----------|
-| **Large Cap Equity** | Parag Parikh Flexi Cap, SBI Bluechip | 25% | Core portfolio stability and long-term growth |
-| **Mid Cap Equity** | Motilal Oswal Midcap | 15% | Higher growth potential for younger clients |
-| **Small Cap Equity** | Axis Small Cap | 10% | Aggressive alpha generation |
-| **International Exposure** | S&P 500 Index ETFs | 10% | Dollar diversification and global macro |
-| **Debt & Bonds** | ICICI Prudential Bond Fund, PPF | 25% | Stability and fixed-income returns |
-| **Gold** | Sovereign Gold Bonds, Gold ETFs | 5% | Inflation hedge and portfolio diversifier |
-| **Liquid / Emergency** | Savings Account, Liquid Funds | 10% | 6-month emergency corpus |
+| Asset Class | Allocation % | Rationale |
+|-------------|--------------|-----------|
+| **Large Cap Equity (India)** | 25% | Core portfolio stability and long-term growth |
+| **Mid Cap Equity (India)** | 15% | Higher growth potential for younger clients |
+| **Small Cap Equity (India)** | 10% | Aggressive alpha generation |
+| **International Exposure** | 10% | Dollar diversification and global macro |
+| **Debt & Bonds (India)** | 20% | Stability and fixed-income returns |
+| **Gold** | 5% | Inflation hedge and portfolio diversifier |
+| **Liquid / Emergency** | 10% | 6-month emergency corpus |
+| **Forex / International Schemes** | 5% | Currency diversification and global opportunities |
 
 ### 🤝 Why Clients Trust Me
 
