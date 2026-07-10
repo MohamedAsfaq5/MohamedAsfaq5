@@ -145,169 +145,88 @@ Beyond my corporate work, I actively guide individuals as a trusted financial ad
 
 ---
 
-<!-- CASE STUDIES SECTION -->
+<!-- CASE STUDIES - ONLY 6, CONFIRMED ORDER -->
 ## 📌 Case Studies
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/ai-bank-operations-transformation">
-        <strong>🏦 AI-Powered Operations Transformation</strong>
-      </a><br>
-      <em>32% cost reduction · 28% faster settlements · $1.3M annualized savings</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
-      <span style="background:#0078D4; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Azure</span>
-      <span style="background:#F2C811; color:black; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Power BI</span>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/proptech-investment-intelligence">
-        <strong>🏗️ PropTech Portfolio Intelligence</strong>
-      </a><br>
-      <em>23% faster decisions · $45M additional portfolio value</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
-      <span style="background:#E97627; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Tableau</span>
-      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Excel</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/healthcare-billing-automation">
-        <strong>🏥 Healthcare Billing Automation</strong>
-      </a><br>
-      <em>98% accuracy · 55% faster processing · $8.2M cash flow improvement</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
-      <span style="background:#F80000; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Oracle</span>
-      <span style="background:#054A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Six Sigma</span>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/funnel-to-fortune-marketing-operations">
-        <strong>📈 From Funnel to Fortune</strong>
-      </a><br>
-      <em>47% conversion · 33% CAC reduction · 67% revenue lift</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
-      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
-      <span style="background:#F2C811; color:black; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Power BI</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/scaling-sales-startup-environment">
-        <strong>🚀 Scaling Sales in a Startup</strong>
-      </a><br>
-      <em>3x revenue growth · 40% cycle reduction · $5M+ pipeline</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
-      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Excel</span>
-      <span style="background:#2496ED; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Agile</span>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/b2b-revenue-engine-pipeline-to-close">
-        <strong>💼 B2B Revenue Engine</strong>
-      </a><br>
-      <em>47% conversion · 28% cycle reduction · 18% deal size increase</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
-      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
-      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Excel</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/customer-retention-operational-excellence">
-        <strong>🔄 Customer Retention Excellence</strong>
-      </a><br>
-      <em>77% retention improvement · 42% LTV increase · 40% churn reduction</em><br>
-      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
-      <span style="background:#F2C811; color:black; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Power BI</span>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/marketing-sales-alignment-framework">
-        <strong>🤝 Marketing-Sales Alignment</strong>
-      </a><br>
-      <em>125% alignment improvement · 67% revenue lift</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
-      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
-      <span style="background:#2496ED; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Agile</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/multi-channel-revenue-optimization">
-        <strong>📊 Multi-Channel Revenue Optimization</strong>
-      </a><br>
-      <em>33% CAC reduction · 18% deal size increase · 22% revenue velocity improvement</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
-      <span style="background:#F80000; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Oracle</span>
-      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Excel</span>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/">
-        <strong>📌 More Coming Soon</strong>
-      </a><br>
-      <em>Additional case studies being added regularly.</em><br>
-    </td>
-  </tr>
-</table>
+### 🚀 Scaling Sales in a Startup
+*Built a repeatable sales motion from scratch in a venture-backed startup. Designed GTM strategy, implemented lightweight CRM, and trained a small team on a structured framework — resulting in significant revenue growth and a multi-million dollar pipeline within 18 months.*  
+<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+<span style="background:#217346; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Excel</span>
+<span style="background:#2496ED; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Agile</span>
 
 ---
 
-<!-- PROJECTS SECTION -->
+### 💼 B2B Revenue Engine
+*Redesigned lead qualification and handoff protocols for a B2B software company. Implemented a unified scoring model and stage-specific exit criteria, dramatically improving conversion rates and shortening sales cycles.*  
+<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+<span style="background:#FF7A59; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
+<span style="background:#217346; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Excel</span>
+
+---
+
+### 📊 Multi-Channel Revenue Optimization
+*Unified B2B, B2C, and D2C channels for a multi-channel organization. Built a single customer data model, defined distinct channel strategies, and implemented dynamic budget allocation — reducing acquisition costs and increasing deal sizes across channels.*  
+<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+<span style="background:#F80000; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Oracle</span>
+<span style="background:#217346; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Excel</span>
+
+---
+
+### 🔄 Customer Retention Excellence
+*Transformed post-sale experience for a D2C subscription business. Redesigned onboarding, built automated engagement sequences, and implemented health scoring — leading to substantial improvements in retention and customer lifetime value.*  
+<span style="background:#FF7A59; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
+<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+<span style="background:#F2C811; color:black; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Power BI</span>
+
+---
+
+### 🤝 Marketing-Sales Alignment
+*Broke down silos between Marketing and Sales for a mid-sized B2B firm. Defined shared KPIs, implemented SLAs, and built a unified dashboard — turning friction into collaboration and significantly boosting revenue per marketing dollar.*  
+<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+<span style="background:#FF7A59; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
+<span style="background:#2496ED; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Agile</span>
+
+---
+
+### 🤝 Negotiation & Deal Structuring
+*Led complex commercial negotiations across PropTech, healthcare, and e-commerce. Structured win-win contracts, managed stakeholder alignment, and closed high-value deals — from international property transactions to enterprise service agreements — consistently achieving favorable terms while preserving relationships.*  
+<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+<span style="background:#0078D4; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Microsoft 365</span>
+<span style="background:#217346; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">CRM Systems</span>
+
+---
+
+<!-- PROJECTS - 6 EXISTING ONES -->
 ## 📌 Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/sales-analytics-dashboard">
-        <strong>📊 Sales Analytics Dashboard</strong>
-      </a><br>
-      <em>Interactive dashboard tracking pipeline health and conversion rates.</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
-      <span style="background:#217346; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Power BI</span>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/crm-process-optimization-case-study">
-        <strong>🚀 CRM Process Optimization</strong>
-      </a><br>
-      <em>Complete redesign delivering 25% lead conversion increase.</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
-      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/invoice-collection-optimization">
-        <strong>💰 Invoice Collection Optimization</strong>
-      </a><br>
-      <em>Process redesign reducing collection time by 10 days.</em><br>
-      <span style="background:#F80000; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Oracle</span>
-      <span style="background:#054A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Six Sigma</span>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/customer-success-playbook">
-        <strong>🤝 Customer Success Playbook</strong>
-      </a><br>
-      <em>Comprehensive framework driving 15% revenue growth.</em><br>
-      <span style="background:#FF7A59; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
-      <span style="background:#0052CC; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">CSM</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/business-operations-templates">
-        <strong>📋 Business Operations Templates</strong>
-      </a><br>
-      <em>Reusable templates for forecasting and reporting.</em><br>
-      <span style="background:#0078D4; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Microsoft 365</span>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/MohamedAsfaq5/proptech-roi-market-analysis">
-        <strong>🏗️ PropTech ROI & Market Analysis</strong>
-      </a><br>
-      <em>PropTech investment analysis aligned with Vision 2030.</em><br>
-      <span style="background:#00A1E0; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
-      <span style="background:#0A66C2; color:white; padding:2px 10px; border-radius:12px; margin:2px; display:inline-block;">PropTech</span>
-    </td>
-  </tr>
-</table>
+### 📊 Sales Analytics Dashboard
+*Interactive dashboard tracking pipeline health and conversion rates.*  
+<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+<span style="background:#217346; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Power BI</span>
+
+### 🚀 CRM Process Optimization
+*Complete redesign delivering 25% lead conversion increase.*  
+<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+<span style="background:#FF7A59; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
+
+### 💰 Invoice Collection Optimization
+*Process redesign reducing collection time by 10 days.*  
+<span style="background:#F80000; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Oracle</span>
+<span style="background:#054A59; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Six Sigma</span>
+
+### 🤝 Customer Success Playbook
+*Comprehensive framework driving 15% revenue growth.*  
+<span style="background:#FF7A59; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">HubSpot</span>
+<span style="background:#0052CC; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">CSM</span>
+
+### 📋 Business Operations Templates
+*Reusable templates for forecasting and reporting.*  
+<span style="background:#0078D4; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Microsoft 365</span>
+
+### 🏗️ PropTech ROI & Market Analysis
+*PropTech investment analysis aligned with Vision 2030.*  
+<span style="background:#00A1E0; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">Salesforce</span>
+<span style="background:#0A66C2; color:white; padding:2px 12px; border-radius:12px; margin:2px; display:inline-block;">PropTech</span>
 
 ---
 
@@ -327,7 +246,7 @@ Beyond my corporate work, I actively guide individuals as a trusted financial ad
 
 ---
 
-<!-- TOOLS - UPDATED FROM CV WITH YOUR EXACT WORDING -->
+<!-- TOOLS - UPDATED FROM CV -->
 ## 🛠️ Tools & Platforms
 
 <p align="center">
@@ -346,7 +265,7 @@ Beyond my corporate work, I actively guide individuals as a trusted financial ad
 
 ---
 
-<!-- FREELANCE / ADVISORY SECTION - FINAL APPROVED VERSION -->
+<!-- FREELANCE / ADVISORY SECTION - FINAL APPROVED -->
 ## 💼 The Advisory Side: Guiding 15+ Portfolios with Precision & Trust (Freelancing)
 
 > *"I treat every rupee as if it were my own — because trust is earned through track record, not promises."*
